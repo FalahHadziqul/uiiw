@@ -32,11 +32,11 @@ const OurPrograms = () => {
   const programs: Program[] = [
     {
       id: 1,
-      img: "/duwi-nowplaying.png",
+      img: "/duwi-complete.png",
       name: "DUWI",
       description:
         "Discover UI With Innovators (DUWI) 2025 adalah sebuah acara talkshow yang menjadi bagian dari rangkaian UI Innovation War 2025. Dengan tema “Inspiring Future Leaders to Compete and Create”, acara ini bertujuan memberikan wawasan dan inspirasi mengenai dunia kompetisi bisnis bagi siswa SMA/SMK di seluruh Indonesia, serta bermanfaat bagi mahasiswa.",
-      opreg: "",
+      opreg: "Completed",
     },
     {
       id: 2,
@@ -48,19 +48,19 @@ const OurPrograms = () => {
     },
     {
       id: 3,
-      img: "/bpc-nowplaying.png",
+      img: "/BPC-complete.png",
       name: "BPC",
       description:
         "Business Plan Competition (BPC) merupakan kompetisi rencana bisnis yang diselenggarakan untuk siswa Sekolah Menengah Atas (SMA). Tujuannya adalah untuk mendorong kreativitas, inovasi, dan semangat kewirausahaan di kalangan remaja. BPC dilengkapi dengan mentoring yang merupakan kegiatan pelatihan khusus bagi para finalis BPC untuk memberikan performa yang maksimal dalam final pitch deck. Kegiatan mentoring terdiri atas pemberian evaluasi, saran, dan kritik dari mentor terhadap finalis. Pelaksanaan mentoring dilakukan secara daring dengan sistem breakout room.",
-      opreg: "",
+      opreg: "Completed",
     },
     {
       id: 4,
-      img: "/bcc-nowplaying.png",
+      img: "/BCC-complete.png",
       name: "BCC",
       description:
         "Business Case Competition (BCC) merupakan kompetisi studi kasus bisnis yang dilakukan oleh tim-tim mahasiswa dalam bersaing untuk merancang solusi bisnis yang inovatif dan mempresentasikannya di hadapan dewan juri. BCC dilengkapi dengan mentoring yang merupakan kegiatan pelatihan khusus bagi para finalis BCC untuk memberikan performa yang maksimal dalam final pitch deck. Kegiatan mentoring terdiri atas pemberian evaluasi, saran, dan kritik dari mentor terhadap finalis. Pelaksanaan mentoring dilakukan secara daring dengan sistem breakout room.",
-      opreg: "",
+      opreg: "Completed",
     },
   ];
 

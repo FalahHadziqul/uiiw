@@ -21,6 +21,10 @@ const Sponsor = () => {
       name: "NUTRISARI",
       logo: "/sponsor-img/Compile Logo Sponsor/NUTRISARI.webp",
     },
+    {
+      name: "GARUDA FOOD",
+      logo: "/sponsor-img/Compile Logo Sponsor/GARUDA FOOD.png",
+    },
   ];
 
   const mediaPartners = [
@@ -204,7 +208,7 @@ const Sponsor = () => {
               key={index}
               src={sponsor.logo}
               alt={sponsor.name}
-              width={200}
+              width={250}
               height={100}
               className="object-contain"
             />
